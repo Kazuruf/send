@@ -1,8 +1,7 @@
 
 # SendUI
-=====
-send-comicui
-v 1.0.0
+## send-comicui
+### v 1.0.0
 =====
 
 20160212
