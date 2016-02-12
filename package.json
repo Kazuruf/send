@@ -1,0 +1,42 @@
+{
+  "name": "send-comicui",
+  "version": "1.0.0",
+  "description": "A simple file uploader built in Node.js. Designed to be hosted on heroku, and utilizing AWS S3 image hosting.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/comicui/send.git"
+  },
+  "dependencies": {
+	"express": "4.x",
+	"body-parser": "*",
+	"ejs": "*",
+	"aws-sdk": "*"
+  },
+  "keywords": [
+    "node.js",
+    "file",
+    "upload",
+    "file",
+    "uploader",
+    "heroku",
+    "aws",
+    "aws",
+    "s3",
+    "s3",
+    "bootstap",
+    "comicui",
+    "comics",
+    "comic",
+    "books"
+  ],
+  "author": "Brian Smith",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/comicui/send/issues"
+  },
+  "homepage": "https://github.com/comicui/send"
+}

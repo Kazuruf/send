@@ -1,0 +1,21 @@
+
+Send | ComicUI
+
+Author: Brian Smith
+Copyright (C) 2016 ComicUI
+Description: A simple file uploader built in Node.js, hosted on heroku, and AWS S3 image hosting.
+Email: brian@comicui.com
+
+
+Powered by:
+AWS S3 Image Hosting
+git
+Heroku
+Node.js
+
+Thanks to:
+https://devcenter.heroku.com/articles/s3-upload-node
+
+For tutorial which is the foundation of this application.
+Feel free to share this however, or to whomever.
+
